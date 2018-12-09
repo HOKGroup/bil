@@ -21,3 +21,15 @@ Building Programs are most done in tools like Excel.  Excel tends to be a great 
 4. Compare programs at a logical level vs at a "outcome" level
 5. Directly link requirements in a program to a a hypothetical spatial structure and a designs proposed physcial structure
 6. ...
+
+
+## Key Concepts
+
+1. Things
+ * Things that are a type of space
+ * Things that take space
+ * Constraints
+ * ...
+2. Two default organizational concepts
+ * Functional
+ * Spatial
